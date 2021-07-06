@@ -101,7 +101,7 @@ h2{
 
 }
 
-.subscribers-followers{
+.subscribers-followers-child{
    margin-left: 18%;
    
 }
@@ -121,3 +121,31 @@ color: #ffff;
 text-align: center;
 }
 
+.round{
+display: flex;
+padding: 2% 0% 8%  5%;
+margin-left: 5%;
+
+}
+.round-recipies-child{
+    
+    width: 20%;
+    margin-right: 2%;
+}
+.round-recipies-child img{
+    width: 100%;
+}
+.round-recipies-child h3{
+    text-align: center;
+}
+
+.round-recipies{
+    background-color:floralwhite;
+    margin-bottom: 2%;
+}
+
+.round-recipies h1{
+    /* padding-left: 8%; */
+    margin-left: 10%;
+    padding-top: 2%;
+}
