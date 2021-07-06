@@ -22,9 +22,6 @@ h1{
   padding: 5%;  
 }
 
-.skip-diet small{
-    
-}
 
 .skip-diet a{
     text-decoration: none;
@@ -78,7 +75,7 @@ h2{
   box-shadow: 5px 10px 5px #888888;
   border-radius: 10px;
   /* min-height: 100px; */
-  width: 24%;
+  width: 25%;
   height: auto;
   margin-right: 5%;
   
@@ -90,3 +87,37 @@ h2{
    height: 200px;
    border-radius: 10px;
 }
+.subcribers-followers{
+    display: flex;
+    /* border: 5px solid; */
+    padding: 4%;
+    box-shadow: 5px 10px 20px #888888;
+    border-radius: 15px;
+    min-height: 50px;
+    width: 78%;
+    margin-left: 6.5%;
+    margin-bottom: 2%;
+    /* margin-right: 5%; */
+
+}
+
+.subscribers-followers{
+   margin-left: 18%;
+   
+}
+
+footer{
+    background-color: black;
+    min-height: 150px;
+}
+footer h1{
+    font-size: 30px;
+    padding-top: 1%;
+    text-align: center;
+}
+
+footer p{
+color: #ffff;
+text-align: center;
+}
+
