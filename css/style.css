@@ -25,7 +25,7 @@ h1{
 
 .skip-diet a{
     text-decoration: none;
-    background-image: linear-gradient(orange ,tomato);
+    background-image: linear-gradient(black, cyan);
     color: #ffff;
     padding: 10px;
     border-radius: 20px;
@@ -50,7 +50,7 @@ h1{
 }
 .about-content a{
     text-decoration: none;
-    background-image: linear-gradient(orange ,tomato);
+    background-image: linear-gradient(blue, cyan);
     color: #ffff;
     padding: 10px;
     border-radius: 20px;
